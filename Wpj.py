@@ -11,9 +11,9 @@ import tools
 
 
 class Wpj(object):
-
+    
     def __init__(self, content: str):
-
+        
         try:
             self.floor_number = int(re.findall(r'第(.*?)层', content)[0])
         except IndexError as e:
