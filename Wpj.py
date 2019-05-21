@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2019/5/20 22:56
-# @Author  : Aries
-# @Site    : 
 # @File    : Wpj.py
-# @Software: PyCharm
 
 import re
 import tkinter as tk
